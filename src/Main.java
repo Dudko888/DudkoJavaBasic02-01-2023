@@ -5,6 +5,8 @@ public class Main {
 
         double longitude = 25.3424400;
 
+        //double longitude = 25.3424400;
+
         System.out.println(latitude + "°");
         System.out.println(longitude + "°");
 
